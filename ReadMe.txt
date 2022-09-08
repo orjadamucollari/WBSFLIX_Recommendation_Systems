@@ -1,5 +1,4 @@
-#movie-recommender-webapp
-
+## movie-recommender
 A store, called WBSFLIX, operates in a small town near Berlin and is still alive thanks to a loyal customer base that appreciates the local atmosphere and, more than anything, the personal recommendations of the owner, Ursula.
 The task is to create recommender systems that give users from WBSFLIX relevant content to watch.
 
